@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">wallet1398</string>
+    <string-array name="wallet">
+        <item>USD</item>
+        <item> ALP</item>
+        <item> Euro</item>
+
+    </string-array>
+    <string name="Success">به درستی ذخیره شد</string>
+
+    <string name="Error">به نادرستی ذخیره شد</string>
+
+    <string name="SaveData">اطلاعات با موفقیت ذخیره شد </string>
+
+    <string name="password1"> رمز شما اشتباه است</string>
+
+    <string name="password2">دوباره امتحان کنید</string>
+
+    <string name="drawer_item_List">List</string>
+
+    <string name="drawer_item_Exchange">Exchange</string>
+
+    <string name="drawer_item_CreateWallet">CreateWallet</string>
+
+    <string name="profile1">Mike Penz</string>
+
+    <string name="profile2">Afshin</string>
+
+    <string name="Email1">mikepenz@gmail.com</string>
+
+    <string name="Email2">matin.mehrabani1397@gmail.com</string>
+
+    <string name="doubleback">Please click BACK again to exit</string>
+
+    <string name="baseUrl">https://nightly-alpha.carrene.com</string>
+
+    <string name="show">show</string>
+
+    <string name="add">add</string>
+
+    <string name="name">name</string>
+
+<string name="converted">converted</string>
+
+<string name="base">base</string>
+
+    <string name="password">password</string>
+
+    <string name="login">log in</string>
+
+    <string name="phone">phone</string>
+
+    <string name="register">register</string>
+
+    <string name="Android">Android</string>
+
+    <string name="android">android</string>
+
+    <string name="code">code</string>
+
+    <string name="symbol">symbol</string>
+
+    <string name="type">type</string>
+
+    <string name="welcome">welcome</string>
+
+    <string name="List">List</string>
+
+    <string name="exchange">exchange</string>
+
+    <string name="createwallet">create wallet</string>
+</resources>
